@@ -1,3 +1,7 @@
+## Upcoming Release
+
+* updated the powershell sample to use version 2.4 instead of 2.0
+
 ## 3.2.0 - December 2019
 
 ### General
