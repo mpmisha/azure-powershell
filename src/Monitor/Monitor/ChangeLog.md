@@ -20,6 +20,7 @@
 
 ## Upcoming Release
 * Extend the parameter set in `Set-AzDiagnosticSetting` for separation of Logs and Metrics enablement [#12482]
+* Fix bug when getting metric alert from pipeline, the actions are deleted [#7891323]
 
 ## Version 2.0.2
 * Fixed bug for `Get-AzDiagnosticSetting` when metrics or logs are null [#12272]
